@@ -43,3 +43,20 @@ body{
     font-weight: bolder;
     
 }
+
+@media screen and (max-width: 600px) {
+    .joke-box {
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .box button {
+        font-size: 14px;
+    }
+
+    #joke-container,
+    #punchline-container {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+}
