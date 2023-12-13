@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.joke-box{
+    background-color: #fff;
+    text-align: center;
+    margin: 125px;
+    padding: 50px;
+    height: 450px;
+}
+.box{
+    text-align: center;
+}
+.box button{
+    background-color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.box button:hover{
+    background-color: grey;
+    color: #fff;
+}
